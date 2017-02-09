@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: 9 февр. 2017 г.
- *      Author: sysadmin
+ *      Author: Alexander Savelev
  */
 
 #include <avr/io.h>
